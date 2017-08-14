@@ -3,7 +3,6 @@ layout: post
 title:  "Explore Geometric Anisotropy for Geostatistical Data"
 excerpt: "Apply geometric anisotropic Bayesian models to simulated and real point referenced spatial datasets."
 project: true
-comments: true
 ---
 
 
