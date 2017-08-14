@@ -2,8 +2,7 @@
 layout: post
 title: "Published Writings"
 date: 2017-08-13
-excerpt: "A collection of published writings on feminist theory, postcolonial theory, East Asian culture, and more"
-tags: [sample post, readability, test]
+excerpt: "A collection of published writings on feminist theory, postcolonial theory, East Asian culture, and more."
 comments: true
 ---
 
