@@ -1,5 +1,5 @@
 ---
 layout: research
-title: My Research
-excerpt: "Rsearch"
+title: Research
+excerpt: "Research"
 ---
