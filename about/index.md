@@ -14,7 +14,7 @@ During Sophomore year, I started working with Biostatistician Dr. Ben Goldstein 
 
 Besides applications in health, I am also interested in Bayesian statistical methods and Machine Learning. I have taken a few graduate level classes on Bayesian methods and Machine Learning. I am currently working on my senior thesis with Dr. Alan Gelfand on exploring anisotropic covariance functions for point referenced data under Bayesian framework. I also did an independent study with Dr. Beka Steorts on Bayesian nonparametric models, specifically developing code for Dirichlet Process and Chinese Restaurant Process. At NIPS conference I attended many talks and workshops on cutting-edge machine learning research. I have been able to apply machine learning algorithms to real world data though projects at DataFest and computing classes. I hope to further work on these areas in graduate school. 
 
-Outside of research, I enjoy reading, writing short stories and dancing (Hiphop, Waacking and House). I have a Minor in Literature at Duke, and I'm particularly interested in feminist theory, postcolonial theory and East Asian literature and film. My published writings are collected in this post.  
+Outside of research, I enjoy reading, writing short stories and dancing (Hiphop, Waacking and House). I have a Minor in Literature at Duke, and I'm particularly interested in feminist theory, postcolonial theory and East Asian literature and film. My published writings are collected in this [post](http://angieshen6.github.io/website/published-writings/). 
 
 All inquiries are welcome at angieshen6 AT gmail.com. Thank you for reading. 
 
