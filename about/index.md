@@ -8,6 +8,7 @@ date: 2016-03-21
 
 Angie is a student at Duke.     
 
+Let's see if this is going to update :)
 ## Features
 * Minimal, you can focus on your content
 * Responsive
