@@ -2,7 +2,6 @@
 layout: post
 title: "Published Writings"
 excerpt: "A collection of published writings on feminist theory, postcolonial theory, East Asian culture, and more."
-comments: true
 ---
 
 ## New York Times Learning Network Blog
